@@ -22,3 +22,8 @@
     align-items: flex-start;
     flex-wrap: wrap;
 }
+.media-nerd{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
