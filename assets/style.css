@@ -5,6 +5,7 @@
 .small-nav{
     display: flex;
     justify-content: center;
+    flex-direction: row;
 }
 .bg-grey{
     background-color: gray;
@@ -12,5 +13,9 @@
 .bg-black{
     background-color: black;
     color: white;
-
+}
+.sml-txt{
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
 }
