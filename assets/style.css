@@ -1,6 +1,16 @@
 .small-logo{
-    
+    display: flex;
+    justify-content: center;
 }
-.grey{
-    background-color: gray
+.small-nav{
+    display: flex;
+    justify-content: center;
+}
+.bg-grey{
+    background-color: gray;
+}
+.bg-black{
+    background-color: black;
+    color: white;
+
 }
