@@ -1,3 +1,6 @@
+.w100{
+    width:100%;
+}
 .small-logo{
     display: flex;
     justify-content: center;
